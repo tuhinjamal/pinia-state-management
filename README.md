@@ -17,7 +17,8 @@ npm install
 ```
 
 ## To run json server 
-```sh json-server -w ./data/db.json
+```sh
+json-server -w ./data/db.json
 ```
 
 ### Compile and Hot-Reload for Development
